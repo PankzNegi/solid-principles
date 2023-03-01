@@ -1,4 +1,4 @@
-package com.pankz.singleresponsiblity.EX2;
+package com.pankz.solidprinciples.singleresponsiblity.EX2;
 
 //Let’s consider a class that contains code that changes the text in some way.
 // The only job of this class should be manipulating text.

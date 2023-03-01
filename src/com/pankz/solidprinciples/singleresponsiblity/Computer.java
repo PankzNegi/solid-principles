@@ -1,6 +1,4 @@
-package com.pankz.singleresponsiblity;
-
-import java.util.List;
+package com.pankz.solidprinciples.singleresponsiblity;
 
 public class Computer {
    private String groupId;

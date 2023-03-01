@@ -1,4 +1,4 @@
-package com.pankz.singleresponsiblity.EX2;
+package com.pankz.solidprinciples.singleresponsiblity.EX2;
 
 import java.util.Arrays;
 
@@ -21,4 +21,4 @@ public class TextPrinter {
         System.out.println(textManipulator.getText().substring(startingIndex, endIndex));
     }
 }
-}
+
